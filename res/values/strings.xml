@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EstandarDemoPosin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="printTextFromTextBox">Imprimir Texto</string>
+    <string name="printInvoiceExample">Imprimir Factura de Ejemplo</string>
+    <string name="printFile">Imprimir Archivo</string>
+    <string name="inputText">Ingrese texto para imprimir</string>
+    <string name="language">Language:</string>
+    <string name="connecterr">Connect Error</string>
+    <string name="connected">Connect Success</string>
+    <string name="warmingconnect">Printer DisConnect</string>
+    <string name="PrintIsNotReady">Print Is Not Ready</string>   
+    <string name="err_noIP">Please Import IP Address</string>
+    <string name="originalsize">OriginalSize:</string>
+    <string name="minifront">MiniFront:</string>
+    <string name="heightsize">HeightSize:</string>
+    <string name="widthsize">WidthSize:</string>
+    <string name="heightwidthsize">HeightWidthSize:</string>
+    <string name="bold">Blod:</string>
+    <string name="underline">Underline:</string>
+    <string name="quit">Quit</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="sureExit">Are you sure exit?</string>
+    <string name="warmTips">Warm</string>    
+    <string name="no_printer">No Printer</string>
+    <string name="have_printer">Printer:</string>
+    <string name="scan_error">Scan Error</string>
+    <string name="scan_success">Scan Success</string>
+    <string name="message_quit_title">Message</string>
+    <string name="connect_last_printer">Connecting printer，Please wait...</string>
+    <string name="print_text">Print Text:</string>
+    <string name="connect_usb_printer">Please connect usb printer.</string>
+    <string name="wifiBtn">Conectar impresora por Wifi</string>
+    <string name="defaultIp">192.168.0.33</string>
+    <string name="usbBtn">Conectar impresora por USB</string>
+    <string name="barcodeBtn">Imprimir Códigos de Barra</string>
+
+</resources>
